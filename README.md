@@ -14,5 +14,5 @@
 * How to use Goodle Fonts and Font Awesome
 * CSS transition effects
 
-
-![](.\img\todolist.png)
+### Result:
+![](.\image\todolist.png)
