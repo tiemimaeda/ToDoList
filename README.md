@@ -15,4 +15,4 @@
 * CSS transition effects
 
 ### Result:
-![tela](.\image\todolist.png)
+![](./image/todolist.png)
