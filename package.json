@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js",
-    "dev": "npx ./node_modules/nodemon/bin/nodemon.js app.js"
+    "dev": "./node_modules/nodemon/bin/nodemon.js app.js"
   },
   "repository": {
     "type": "git",
