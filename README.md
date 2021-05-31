@@ -2,9 +2,10 @@
 
 ### Technologies used:
 * Vanilla Javascript
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Node.js
+* Express
 
 ### Practiced:
 * Usage of event listeners
